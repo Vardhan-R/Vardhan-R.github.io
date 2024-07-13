@@ -1,0 +1,21 @@
+table {
+	border: 1px solid wheat;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
+tr, td {
+	border: 1px solid wheat;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+#main_table {
+	background-color: gray;
+	border-radius: 10;
+}
